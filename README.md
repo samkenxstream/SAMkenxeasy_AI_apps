@@ -57,9 +57,18 @@
 </div> 
 
 
+
+
+
+
+
+
+
+
+
 <div align="center">
   <div align="center">欢迎交流，QQ群： 166914942 </div>
-<img src="https://aiart.oss-cn-shanghai.aliyuncs.com/images/qq.jpeg"  width = "280"  />
+<img src="https://aiart.oss-cn-shanghai.aliyuncs.com/images/qq.jpeg"  width = "240"  />
 </div>
 
 作者：Calvin    
