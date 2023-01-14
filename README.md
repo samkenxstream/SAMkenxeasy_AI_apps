@@ -1,9 +1,10 @@
 <div align="left">
 <img src="https://aiart.oss-cn-shanghai.aliyuncs.com/images/logo.png"  width = "200"  />
 </div>
-- 官网: http://www.aiarts.top/
-- Gitee:  https://gitee.com/mymagicpower/easy_AI_apps
-- GitHub: https://github.com/mymagicpower/easy_AI_apps
+
+- 官网: http://www.aiarts.top/           
+- Gitee:  https://gitee.com/mymagicpower/easy_AI_apps        
+- GitHub: https://github.com/mymagicpower/easy_AI_apps        
 
 
 ### 简单易用的AI桌面工具
